@@ -12,7 +12,7 @@
 주제 : 서울시 3세대 골목상권 입주희망자를위한 매출액 예측 데이터셋 구축
 
 * 상권 자체의 성공은 매출액으로 파악
-[WBS링크](https://docs.google.com/spreadsheets/d/1Z8hfsF6niLpXW_e0yKKWuMNuLca0PBXT8Dl_4GF1q_Y/edit#gid=0)
+[WBS링크](https://docs.google.com/spreadsheets/d/1CDXSqsW4RY6EdwqXRIwYfSgZJeiJG0bXdA5kQZAnJLU/edit#gid=0)
 
 사용 자료)
 1. A Case Study on the Local Platform from the Public Design Perspective for the Revitalization of Alley Commercial Area
