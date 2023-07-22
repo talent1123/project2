@@ -97,7 +97,7 @@ Django : 스파크,하둡 으로 가공한 데이터를 aws에 적재하여 폴�
 
 # 최종결과물
 
-## 과정코드는  본인것만 IPYNB로 첨부
+## 코드는 본인것만 첨부
 
 ## WBS
 [WBS링크](https://docs.google.com/spreadsheets/d/1CDXSqsW4RY6EdwqXRIwYfSgZJeiJG0bXdA5kQZAnJLU/edit#gid=0)
