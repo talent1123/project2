@@ -1,10 +1,16 @@
 # Project 2(2022-11-21~2022-12-12)
 
-## 팀소개
-
 ## 프로젝트 주제 소개 
 
-## 요구사항 분석
+주제 : 서울시 3세대 골목상권 입주희망자를위한 매출액 예측 데이터셋 구축
+
+## 프로젝트 일정
+
+[WBS링크](https://docs.google.com/spreadsheets/d/1CDXSqsW4RY6EdwqXRIwYfSgZJeiJG0bXdA5kQZAnJLU/edit#gid=0)
+
+## 프로젝트 상세
+
+* 상권 자체의 성공은 매출액으로 파악
 
 
 ## 프로젝트 일정
@@ -98,9 +104,6 @@ Django : 스파크,하둡 으로 가공한 데이터를 aws에 적재하여 폴�
 # 최종결과물
 
 ## 코드는 본인것만 첨부
-
-## WBS
-[WBS링크](https://docs.google.com/spreadsheets/d/1CDXSqsW4RY6EdwqXRIwYfSgZJeiJG0bXdA5kQZAnJLU/edit#gid=0)
 
 ### AWS에 데이터베이스를 적재 후, Django 웹 서비스 구현(시각화)
 
