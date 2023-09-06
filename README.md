@@ -4,9 +4,6 @@
 
 주제 : 서울시 3세대 골목상권 입주희망자를위한 매출액 예측 데이터셋 구축
 
-## 프로젝트 일정
-
-[WBS링크](https://docs.google.com/spreadsheets/d/1CDXSqsW4RY6EdwqXRIwYfSgZJeiJG0bXdA5kQZAnJLU/edit#gid=0)
 
 ## 프로젝트 상세
 
